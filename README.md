@@ -1,5 +1,5 @@
 # Dashboard-Xbox
-Criação do dashboard do dessafio
+Criação do dashboard do desafio
 
 Odashboard apresenta as seguintes perguntas de negócios:
 
